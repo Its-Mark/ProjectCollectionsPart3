@@ -7,6 +7,7 @@
  * Nanoseconds it took using ArrayList: 5194595700
  * Nanoseconds it took using LinkedList: 2993986100
  * In conclusion, the most efficient type of list to use in this program would be a LinkedList.
+ * Using a LinkedList was almost 2x faster than using an ArrayList.
  */
 import java.util.*;
 import java.io.File;

@@ -74,6 +74,7 @@
       <workItem from="1586381417954" duration="94000" />
       <workItem from="1586381723935" duration="2013000" />
       <workItem from="1586385197310" duration="3203000" />
+      <workItem from="1586388494822" duration="50000" />
     </task>
     <servers />
   </component>
@@ -117,11 +118,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="343" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
-    <state x="533" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1586385200568">
+    <state x="533" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1586388494177">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1586381423517" />
-    <state x="533" y="310" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586385200568" />
+    <state x="533" y="310" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388494177" />
     <state x="521" y="257" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586388016016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

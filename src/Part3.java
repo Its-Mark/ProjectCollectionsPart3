@@ -39,7 +39,7 @@ public class Part3 {
                 while(itemScanner.hasNext()){
                     aL.add(itemScanner.next());
                 }
-                
+
                 long end = System.nanoTime();
                 System.out.println("The time (nanoseconds) it took to complete all the operations was: " + (end-start));
                 //end if

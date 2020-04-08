@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05706e3d-9b27-4193-891c-ae938d134ba0" name="Default Changelist" comment="" />
+    <list default="true" id="05706e3d-9b27-4193-891c-ae938d134ba0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +34,21 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="profiler.jvm" />
   </component>
+  <component name="RunManager">
+    <configuration name="Part3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3" />
+      <module name="COLLECTIONSPART3" />
+      <option name="PROGRAM_PARAMETERS" value="LinkedList" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Part3" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -55,6 +73,7 @@
       <updated>1586381415110</updated>
       <workItem from="1586381417954" duration="94000" />
       <workItem from="1586381723935" duration="2013000" />
+      <workItem from="1586385197310" duration="3203000" />
     </task>
     <servers />
   </component>
@@ -62,10 +81,54 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1586381721050">
+    <state x="289" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586387890574">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="289" y="230" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586387890574" />
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.0.center" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.0.left" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.0.right" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.1.center" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.1.left" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state width="1877" height="343" key="GridCell.Tab.1.right" timestamp="1586388413046">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="343" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388413046" />
+    <state x="533" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1586385200568">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="380" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1586381423517" />
-    <state x="533" y="310" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586381721050" />
+    <state x="533" y="310" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586385200568" />
+    <state x="521" y="257" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586388016016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="521" y="257" width="877" height="602" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388016016" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1586388406778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586388406778" />
   </component>
 </project>

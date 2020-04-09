@@ -2,7 +2,7 @@
  * Project Collections (Part 3)
  * @author Mark Garcia 018019103
  *         mark.garcia01@student.csulb.edu
- * @author Brandon Wiitanen
+ * @author Brandon Wiitanen 018502846
  *         brandon.wiitanen01@student.csulb.edu
  * Nanoseconds it took using ArrayList: 5194595700
  * Nanoseconds it took using LinkedList: 2993986100
